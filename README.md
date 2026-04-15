@@ -22,4 +22,4 @@ This Machine Learning project classifies Reddit posts into 'Stress' or 'No Stres
 
 This project also includes a research paper explaining methodology, results, and contributions.
 
-👉 [View Paper](./research_Paper.pdf)
+👉 [View Paper](./research_paper.pdf)
