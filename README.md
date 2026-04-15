@@ -17,3 +17,9 @@ This Machine Learning project classifies Reddit posts into 'Stress' or 'No Stres
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, Scikit-learn, Seaborn, Matplotlib, Regex
+
+- ## 📄 Research Paper
+
+This project also includes a research paper explaining methodology, results, and contributions.
+
+👉 [View Paper](./research_Paper.pdf)
