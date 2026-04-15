@@ -9,7 +9,7 @@ This Machine Learning project classifies Reddit posts into 'Stress' or 'No Stres
 - **Statistical Analysis:** Included Mean, Median, and Mode analysis of post lengths and sentiments.
 
 ## 📊 Results
-- **Model Accuracy:** 75.53%
+- **Model Accuracy:** 76.06%
 - **Insights:** The model performs consistently across both classes, as shown in the Confusion Matrix below.
 
 ![Confusion Matrix](confusion_matrix.png)
